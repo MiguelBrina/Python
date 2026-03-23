@@ -32,7 +32,6 @@ class Retangulo:
         
 r = Retangulo(5,10)
 
-r = Retangulo(5,10)
 
 try:
     r.altura = -20
